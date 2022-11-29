@@ -16,10 +16,10 @@ import java.util.Scanner;
              System.out.println("Birden n e kadar olan tamsayıların toplamı:"+t1);     
              for(int i=1;i<=n;i+=2){
                  t2+=i;                             
-        }System.out.println("Birden n e kadar olan tek tamsayıların toplamı"+t2);
-             for(int i=2;i<=n;i+=3){
+        }System.out.println("Birden n e kadar olan tek tamsayıların toplamı: "+t2);
+             for(int i=2;i<=n;i+=2){
                  t3+=i;                 
              }
-             System.out.println("2 den n e kadar olan çift tamsayıların toplamı");
+             System.out.println("2 den n e kadar olan çift tamsayıların toplamı: "+t3);
         }
 }
