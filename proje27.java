@@ -1,5 +1,5 @@
 package projeler;
-//m 
+//klavyeden girilen iki tamsayının dost sayı olup olmadığını bulan program
 
 import java.util.Scanner;
 
